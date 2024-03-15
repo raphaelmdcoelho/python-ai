@@ -3,3 +3,15 @@
 -> input()
 -> print(f"{name}")
 -> int("123")
+-> printt(a and b or a not b)
+-> a = []
+-> [].append()
+-> [].remove()
+-> [].sort()
+-> len([])
+-> 4 in []
+-> {}
+-> a['name']
+-> { "name": True }
+-> del a['name']
+->
